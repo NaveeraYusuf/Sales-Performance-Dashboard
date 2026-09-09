@@ -65,7 +65,7 @@ The project uses Python for data analysis and Microsoft Power BI to create an in
 
 ## 📁 Project Files
 
-- `CapstoneProject_Python_PBI.pbix` — Complete Power BI dashboard
+- `Sales_Performance_Dashboard.pbix` — Complete Power BI dashboard
 - `Retail_Sales_Cleaned.csv` — Cleaned retail sales dataset
 - `Sales-Performance-Dashboard.png` — Dashboard preview
 - `README.md` — Project documentation
