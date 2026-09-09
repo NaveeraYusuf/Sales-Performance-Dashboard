@@ -61,7 +61,7 @@ The project uses Python for data analysis and Microsoft Power BI to create an in
 
 ## 📷 Dashboard Preview
 
-![Retail Sales Performance Dashboard](Sales-Performance-Dashboard.png)
+![Retail Sales Performance Dashboard]([Sales-Performance-Dashboard.png](https://github.com/NaveeraYusuf/Sales-Performance-Dashboard/blob/main/Sales%20Performance%20Dashboard.png))
 
 ## 📁 Project Files
 
